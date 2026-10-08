@@ -1,0 +1,34 @@
+{
+  "cultural_rules": [
+    {
+      "name": "白族扎染",
+      "symmetry_preference": "垂直对称、水平对称",
+      "fractal_feature": "冰裂纹，分形维1.3~1.8",
+      "description": "白族扎染纹样多以自然花草为主，冰裂纹由手工捆扎浸染自然形成，具备自相似分形特征"
+    },
+    {
+      "name": "甲马版画",
+      "symmetry_preference": "垂直轴对称",
+      "fractal_feature": "低",
+      "description": "大理甲马木刻版画，神像、吉祥纹样大量使用左右垂直对称构图"
+    },
+    {
+      "name": "剑川木雕",
+      "symmetry_preference": "水平、垂直双对称",
+      "fractal_feature": "中等",
+      "description": "剑川木雕门窗纹样，常使用中心对称、轴对称，花鸟纹样重复排布"
+    },
+    {
+      "name": "银器",
+      "symmetry_preference": "180°旋转对称，径向对称",
+      "fractal_feature": "低",
+      "description": "大理白族银饰，花纹多采用中心旋转对称，几何回纹循环重复"
+    },
+    {
+      "name": "其他",
+      "symmetry_preference": "无固定",
+      "fractal_feature": "无固定",
+      "description": "其他大理非遗纹样，需单独分析数学特征"
+    }
+  ]
+}
